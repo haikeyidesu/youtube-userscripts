@@ -1,4 +1,4 @@
-# youtube-userscripts
+# youtube-userscripts by Reysu
 Youtube user scripts that help reduce usage of the website and increase productivity 
 
 Install with [Tampermonkey](http://tampermonkey.net)
